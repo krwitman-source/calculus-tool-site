@@ -13,7 +13,7 @@ set_site_information(
     author="Kamryn Witman",
     description="Graph and calculate derivatives and critical numbers.",
     sources="",
-    planning=[],
+    planning=["Final Project Pick a Problem.pdf", "Final Project LLM.pdf", "Final Project Design.pdf"],
     links=[]
 )
 hide_debug_information()
